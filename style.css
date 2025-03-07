@@ -1,8 +1,8 @@
-.image-container img{
+.image-container {
       display: flex;
       gap: 10px;
 }
-.image-container img{
+.image-container img {
       max-width: 100%;
       height: auto;
 }
